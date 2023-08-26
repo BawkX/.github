@@ -37,18 +37,20 @@ A **Bawk** atua como uma plataforma de comercialização e distribuição de pro
 
 Este projeto conta com a colaboração dos seguintes estudantes:
 
-<a href="https://www.github.com/vitorRibeiro7" target="_blank">
+<p align="center">
+  <a href="https://www.github.com/vitorRibeiro7" target="_blank">
     <img height="200px" src="https://github.com/iBawk/.github/blob/main/public/assets/img/authors/author-vitor.png">
-</a>
-<a href="https://www.github.com/cDanx" target="_blank">
-<img height="200px" src="https://github.com/iBawk/.github/blob/main/public/assets/img/authors/author-daniel.png">
-</a>
-<a href="https://www.github.com/corumbs" target="_blank">
-<img height="200px" src="https://github.com/iBawk/.github/blob/main/public/assets/img/authors/author-corumba.png">
-</a>
-<a href="https://www.github.com/TakedaGalaxy" target="_blank">
-<img height="200px" src="https://github.com/iBawk/.github/blob/main/public/assets/img/authors/author-takeda.png">
-</a>
+  </a>
+  <a href="https://www.github.com/cDanx" target="_blank">
+    <img height="200px" src="https://github.com/iBawk/.github/blob/main/public/assets/img/authors/author-daniel.png">
+  </a>
+  <a href="https://www.github.com/corumbs" target="_blank">
+    <img height="200px" src="https://github.com/iBawk/.github/blob/main/public/assets/img/authors/author-corumba.png">
+  </a>
+  <a href="https://www.github.com/TakedaGalaxy" target="_blank">
+    <img height="200px" src="https://github.com/iBawk/.github/blob/main/public/assets/img/authors/author-takeda.png">
+  </a>
+</p>
 
 ## Licença
 

@@ -1,4 +1,4 @@
-<center> <img src="../public/assets/img/logo.png"> </center>
+<center> <img src="https://github.com/iBawk/.github/blob/main/public/assets/img/logo.png"> </center>
 
 ## Descrição
 

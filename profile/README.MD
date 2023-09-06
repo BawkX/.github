@@ -15,6 +15,7 @@ A **Bawk** atua como uma plataforma de comercialização e distribuição de pro
 - **UX-UI:**
 
   ![figma](https://img.shields.io/badge/Figma-ff2400.svg?style=for-the-badge&logo=Figma&logoColor=white)
+  ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-ff2400.svg?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
 
 - **Front-end:**
 
@@ -28,6 +29,10 @@ A **Bawk** atua como uma plataforma de comercialização e distribuição de pro
 
   ![python](https://img.shields.io/badge/Python-ff2400.svg?style=for-the-badge&logo=Python&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-ff2400.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
+  ![sqlalchemy](https://img.shields.io/badge/SQL%20Alchemy-ff2400.svg?style=for-the-badge)
+  ![alembic](https://img.shields.io/badge/Alembic-ff2400.svg?style=for-the-badge)
+  ![passlib](https://img.shields.io/badge/Passlib-ff2400.svg?style=for-the-badge)
+  ![jwt](https://img.shields.io/badge/JSON%20Web%20Tokens-ff2400.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
 
 - **Banco de Dados:**
 
